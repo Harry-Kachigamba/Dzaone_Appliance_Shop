@@ -9,7 +9,7 @@ namespace Dzaone_Appliance_Shop
 {
     class DBConnection
     {
-        MySqlConnection connect = new MySqlConnection("server=localhost; userID=root; password=; database=Dzaone_Appliances");
+        MySqlConnection connect = new MySqlConnection("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
 
         public MySqlConnection getconnection()
